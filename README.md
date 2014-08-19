@@ -13,7 +13,7 @@ Clone and Compile
 
 In theory this will work with other systems.  I've only tried it on Ubuntu Linux and didn't code in much in the way of error handling.
 
-Fist you need to get a copy of this repository.  You can use GitHub to clone it with git, download a live archive of the [master branch](https://github.com/fidian/leappad-my-pal/archive/master.zip) or individually download the files to your computer.
+Fist you need to get a copy of this repository.  You can use GitHub to clone it with git, download a live archive of the [master branch](https://github.com/fidian/leapfrog-my-pal/archive/master.zip) or individually download the files to your computer.
 
 Next, compile.  `make` should build out two binaries.
 
